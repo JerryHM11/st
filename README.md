@@ -1,3 +1,3 @@
-## KiteAB's st build for Colemak users.
+## JerryHM11's st build for Colemak users.
 
-You can use Shift+PgUp/PgDn to do Page Up or Page Down.
+You can use Mod+PgUp/PgDn to do Page Up or Page Down.
